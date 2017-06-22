@@ -4,9 +4,9 @@
 ---
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 		
-	* Array
-	* Object
-	* Method
+	* Array - An array is like a box that we can store all sorts of things in. In an array, we can store strings, numbers, or even other arrays.
+	* Object - An object describes itself. Just like objects in the world are made up of different parts (a tree is made up of leaves, bark, roots, etc), an object in coding is made up of different parts. Like an array, these parts can be strings, arrays, numbers, etc.
+	* Method - A method is a part of an object that does something (function). In our tree example, a method might be the process of photosynthesis. In coding, a method is a function, and an example of something it might do is returning a combination of two other object properties.
 
 
 3. Fork and clone this repo.  When you need to commit use the following commands.
